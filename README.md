@@ -1,7 +1,5 @@
-Moved to https://github.com/THU-Astro-Society/yuzhou
+Moved to [THU-Astro-Society/yuzhou](https://github.com/THU-Astro-Society/yuzhou)
 ---
-
-# yuzhou_TAS
 
 TAS Cosmology seminar
 
